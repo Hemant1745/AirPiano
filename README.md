@@ -1,7 +1,7 @@
 # AirPiano
 Using python , opencv and mediapipe , i have created air piano
 install python in vs studio 
-import opencv , mediapipe and cvzone 
+import opencv , mediapipe, pygame and cvzone 
 
 below is the chord mapping 
 
